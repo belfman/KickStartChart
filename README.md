@@ -7,6 +7,7 @@ Analyze 4,115 projects from Kickstarter to uncover any hidden trends that show w
 <img align="right" src="images/ExcelP2.PNG" width="500" wrap>
 
 ## Tools:
+---
 For this project I used Microsoft Excel. Conditional formatting was used to differentiate if the state of a project was "successful", "failed", "cancelled", or is "live". Formulas were used to calculate the percent of how much money a campaign made towards reaching its goal. Formulas were also used to split the title of the column "Category and Sub-Category" into two new columns labeled "Category" and "Sub-Category". A pivot table was created to analyze how many campaingns were "successful", "failed", "cancelled", or "live". 
 <img align="left" src="images/ExcelP3.PNG" width="500" wrap>
 
