@@ -6,7 +6,7 @@
 
 ## Task:
 ---
-Analyze 4,115 projects from Kickstarter to uncover any hidden <br> trends that show whether or not a project will be successful.
+Analyze 4,115 projects from Kickstarter to uncover any hidden trends that show whether or not a project will be successful.
 <img align="right" src="images/ExcelP2.PNG" width="500">
 
 ## Tools:
@@ -22,7 +22,7 @@ According to this data, a Kickstarter started in Q2 has a 15.5% success rate and
 The cancel rate for Q1, Q2, Q3 and Q4 is 2.2%, 2.0%, 2.4% and 1.9% respectively. Therefore all quarters have approximately the same cancel rate. Plays made up 31.76% of successful campaigns, and 23.07% of failed campaigns.
 <br>
 <br>
-<img src="images/ExcelP4.PNG" width="500">
+<img align="right" src="images/ExcelP4.PNG" width="500">
 
 ## Limitations:
 ---
